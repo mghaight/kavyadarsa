@@ -1,6 +1,4 @@
-## Materials for the study of Daṇḍin's Kāvyādarśa
-
----
+## Materials for the study of Daṇḍin's *Kāvyādarśa*
 
 The plan for this repository is to collect texts and translations in the
 `texts/` directory and the secondary resources in the `resources/` directory. I
